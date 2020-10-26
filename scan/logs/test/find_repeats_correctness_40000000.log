@@ -1,0 +1,10 @@
+---------------------------------------------------------
+Found 1 CUDA devices
+Device 0: Tesla K80
+   SMs:        13
+   Global mem: 11441 MB
+   CUDA Cap:   3.7
+---------------------------------------------------------
+Array size: 40000000
+Student GPU time: 55.795 ms
+Find_repeats outputs are correct!

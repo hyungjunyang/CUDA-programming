@@ -1,0 +1,30 @@
+Rendering to 1024x1024 image
+Loaded scene with 3 circles
+---------------------------------------------------------
+Initializing CUDA for CudaRenderer
+Found 1 CUDA devices
+Device 0: Tesla K80
+   SMs:        13
+   Global mem: 11441 MB
+   CUDA Cap:   3.7
+---------------------------------------------------------
+WARNING: You're not running on a fast GPU, please consider using NVIDIA GTX 480, 670 or 780.
+---------------------------------------------------------
+
+Running benchmark, 4 frames, beginning at frame 0 ...
+Dumping frames to output_xxx.ppm
+Copying image data from device
+Wrote image file output_0000.ppm
+Copying image data from device
+Wrote image file output_0001.ppm
+Copying image data from device
+Wrote image file output_0002.ppm
+Copying image data from device
+Wrote image file output_0003.ppm
+Clear:    0.1476 ms
+Advance:  0.0013 ms
+Render:   0.3420 ms
+Total:    0.4908 ms
+File IO:  85.7331 ms
+
+Overall:  0.3450 sec (note units are seconds)
